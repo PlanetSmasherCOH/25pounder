@@ -1,0 +1,6 @@
+hidden = false
+name = "25-pounder Emplacement"
+description = "This is a small example mod following SneakEye's guide on creating a 25-pounder Emplacement."
+dependencies = 
+{
+}

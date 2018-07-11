@@ -1,0 +1,22 @@
+Archive name="b5027c2d98864b94818551e3fe9f7cc6" blocksize="262144"
+TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
+	FileSettingsStart defverification="sha1_blocks" defcompression="stream_compress"
+		Override wildcard=".*\.(rgd)$" minsize="-1" maxsize="-1" vt="sha1_blocks" ct="buffer_compress"
+	FileSettingsEnd
+	E:\Spiele\CoH2-Mods\25pounder\25pounder Intermediate Cache\Intermediate Files\attrib\attrib\abilities\british\modal_ability\artillery\artillery_barrage_ability\qf_25lb_barrage_ability_mp.rgd
+	E:\Spiele\CoH2-Mods\25pounder\25pounder Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\british\buildings\emplacements\brit_25_pounder_gun_mp.rgd
+	E:\Spiele\CoH2-Mods\25pounder\25pounder Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\british\buildings\emplacements\brit_25_pounder_pit_mp.rgd
+	E:\Spiele\CoH2-Mods\25pounder\25pounder Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\british\soldiers\sapper_squad\sapper_squad_mp.rgd
+	E:\Spiele\CoH2-Mods\25pounder\25pounder Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\british\team_weapons\at_gun_25_pounder\brit_25_pounder_at_gun_squad_mp.rgd
+TOCEnd
+TOCStart name="locale" alias="locale" path="" relativeroot="locale"
+	FileSettingsStart defverification="crc_blocks" defcompression="stream_compress"
+	FileSettingsEnd
+	E:\Spiele\CoH2-Mods\25pounder\25pounder Intermediate Cache\Intermediate Files\locale\english\english.ucs
+TOCEnd
+TOCStart name="info" alias="info" path="" relativeroot="info"
+	FileSettingsStart defverification="crc_blocks" defcompression="stream_compress"
+		Override wildcard=".*\.(lua)$" minsize="-1" maxsize="-1" vt="crc_blocks" ct="buffer_compress"
+	FileSettingsEnd
+	E:\Spiele\CoH2-Mods\25pounder\25pounder Intermediate Cache\Intermediate Files\info\b5027c2d98864b94818551e3fe9f7cc6.info
+TOCEnd

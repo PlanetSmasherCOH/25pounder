@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BurnInfoRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\25pounder\25pounder.xml</FileName>
+			<FileHash>20879c48cab7b7a308cb5caa5a67a72c</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\25pounder\instances\abilities\british\modal_ability\artillery\artillery_barrage_ability\qf_25lb_barrage_ability_mp.xml</FileName>
+			<FileHash>17e767624509b91f1f97fd19295e002c</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\25pounder\instances\ebps\races\british\buildings\emplacements\brit_25_pounder_gun_mp.xml</FileName>
+			<FileHash>607b589a1644c6b8db83b4c053e997c9</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\25pounder\instances\ebps\races\british\buildings\emplacements\brit_25_pounder_pit_mp.xml</FileName>
+			<FileHash>041fe2c20b732f45ed9e4a3929355980</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\25pounder\instances\sbps\races\british\soldiers\sapper_squad\sapper_squad_mp.xml</FileName>
+			<FileHash>6c6c94a68d09496ba98f6c11b2e788a7</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\25pounder\instances\sbps\races\british\team_weapons\at_gun_25_pounder\brit_25_pounder_at_gun_squad_mp.xml</FileName>
+			<FileHash>4fd13303c2a38d5dbe4932c514f64c90</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\25pounder\locale\english\english.ucs</FileName>
+			<FileHash>f3b25701fe362ec84616a93a45ce9998</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\25pounder\25pounder Intermediate Cache\Intermediate Files\info\b5027c2d98864b94818551e3fe9f7cc6.info</FileName>
+			<FileHash>2f525569de2389c53cf7d67800fb9bb1</FileHash>
+		</BurnInfo>
+	</BurnInfo>
+	<BurnInfoExtendedInfo />
+</BurnInfoRoot>
